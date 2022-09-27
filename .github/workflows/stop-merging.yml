@@ -2,6 +2,8 @@ name: 'Check Mergeability'
 
 on:
   pull_request:
+    # With "edited" it runs on PR title updates
+    types: [opened, edited, synchronize, reopened]
 
 jobs:
   check-main:
