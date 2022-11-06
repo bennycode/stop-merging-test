@@ -1,4 +1,4 @@
-# ts-node-starter
+# test
 
 The `ts-node-starter` scaffolding project is a [template repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-template-repository) which makes it easy for you to start a new Node.js project with TypeScript.
 
